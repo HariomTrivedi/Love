@@ -1,9 +1,8 @@
 {
     "scripts": {
-      "build": "sass CSS/main.scss CSS/main.css --no-source-map"
+        "build": "sass css/style.scss css/main.css --no-source-map"
     },
     "devDependencies": {
-      "sass": "^1.32.0"
+        "sass": "^1.83.4"
     }
-  }
-  
+}
