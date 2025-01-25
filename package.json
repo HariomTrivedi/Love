@@ -1,7 +1,7 @@
 {
     "scripts": {
-        "build": "sass css/style.scss css/main.css --no-source-map"
-    },
+        "build": "npx sass css/style.scss public/css/main.css --no-source-map"
+      },
     "devDependencies": {
         "sass": "^1.83.4"
     }
